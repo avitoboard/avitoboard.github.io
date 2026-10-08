@@ -2,7 +2,7 @@
   "name": "AvitoBoard",
   "short_name": "AvitoBoard",
   "description": "Кабинет и статистика по продвижению на Avito",
-  "start_url": "/",
+  "start_url": "/login",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
